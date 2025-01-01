@@ -23,6 +23,10 @@ pacman -Syu
 
 ![image](https://github.com/user-attachments/assets/cf5d68f8-9f7e-444e-ad5a-488d6da138be)
 
+Надимаем Y
+
+![image](https://github.com/user-attachments/assets/e78a71fd-8374-4d89-94c9-acd2b7b4aa37)
+
 pacman -S mingw-w64-x86_64-toolchain
 
 pacman -S mingw-w64-x86_64-freeglut
