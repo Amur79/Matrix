@@ -48,6 +48,12 @@ pacman -S mingw-w64-x86_64-toolchain
 
 pacman -S mingw-w64-x86_64-freeglut
 
+![image](https://github.com/user-attachments/assets/b6a8d2d3-01fb-459e-98ed-f6760b1d7776)
+
+Нажимаем Y
+
+![image](https://github.com/user-attachments/assets/67bfedac-eb68-49c6-8a0b-98291025cf57)
+
 Первая обновляет пакеты, а вторая необходима для компиляции, третья устанавливает freeglut
 
 ## Добавляем путь компилятора к переменным среды
