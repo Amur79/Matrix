@@ -12,6 +12,7 @@ Cтавим в папку c:\msys64\
 
 ## 3. Установка MinGW64 вместе с freeglut</h2>
 Запускаем MSYS2 приложение через Пуск
+![image](https://github.com/user-attachments/assets/3e9ec6af-831e-40c4-b6aa-68eaf09693c9)
 
 Затем даем команды (копируем и вставляем, при вопросах жмем Y):
 pacman -Syu
