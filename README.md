@@ -31,6 +31,8 @@ pacman -Syu
 
 ![image](https://github.com/user-attachments/assets/7a5f29a4-c250-496c-8fc5-8e97129ba638)
 
+Со следующими командами делаем теже шаги
+
 pacman -S mingw-w64-x86_64-toolchain
 
 
