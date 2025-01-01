@@ -35,6 +35,16 @@ pacman -Syu
 
 pacman -S mingw-w64-x86_64-toolchain
 
+![image](https://github.com/user-attachments/assets/821cfc53-9b1d-4c98-b542-c1e2657b9e44)
+
+Жмем Enter
+
+![image](https://github.com/user-attachments/assets/810fd2d5-6450-48ef-a6e4-905147bd8afd)
+
+Потом Y
+
+![image](https://github.com/user-attachments/assets/004bafb9-feb0-4775-82d1-cdafccd7570d)
+
 
 pacman -S mingw-w64-x86_64-freeglut
 
