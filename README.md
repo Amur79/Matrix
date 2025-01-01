@@ -24,4 +24,5 @@
 <p>Желательно перегрузить компьютер</p>
 <p>Здесь был Максим</p>
 <p>Изменено в VS Code</p>
+<p>Ссылка на мою <a href="https://github.com/lazy-santa/Embedded-System-Labs" target="_blank"> лабу</a>
 </html>
