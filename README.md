@@ -8,9 +8,8 @@
 <p>Запускаем установщик и следуем инструкциям ниже на этой же странице с небольшими изменениями:
 <ul>
 <li>- ставим в папку c:\msys64\</li>
-![Снимок экрана 2025-01-01 180542](https://github.com/user-attachments/assets/b4f326e3-213b-4d07-ab8b-55d9cc401882)
-
-</ul>
+  </ul>
+![Image](https://github.com/user-attachments/assets/b4f326e3-213b-4d07-ab8b-55d9cc401882)
 </p>
 <h2>3. Установка MinGW64 вместе с freeglut</h2>
 <p>запускаем MSYS2 приложение через Пуск</p>
