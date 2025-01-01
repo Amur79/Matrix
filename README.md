@@ -14,8 +14,14 @@ Cтавим в папку c:\msys64\
 Запускаем MSYS2 приложение через Пуск
 ![image](https://github.com/user-attachments/assets/3e9ec6af-831e-40c4-b6aa-68eaf09693c9)
 
+Примерно такой путь должен получится
+![image](https://github.com/user-attachments/assets/46d81321-9c6f-474d-9e23-ba83590ab4be)
+
 Затем даем команды (копируем и вставляем, при вопросах жмем Y):
+
 pacman -Syu
+
+![image](https://github.com/user-attachments/assets/cf5d68f8-9f7e-444e-ad5a-488d6da138be)
 
 pacman -S mingw-w64-x86_64-toolchain
 
